@@ -1,5 +1,4 @@
 ### Hi there 👋, my nickname is Cleyx
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Principalmente soy desarrollador backend, tengo 18 años y soy de México.
 
